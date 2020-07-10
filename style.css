@@ -16,17 +16,14 @@ body {
 }
 
 header {
-    background-color: blue;
     height: 118px;
 }
 
 nav {
-    background-color: red;
-    height: 40px;
+    background-color: rgba(0, 0, 0, 0.338);
 }
 
 main {
-    background-color: orange;
     height: 400px;
     color: white;
     padding-top: 80px;
@@ -40,9 +37,9 @@ section {
 }
 
 footer {
-    background-color: greenyellow;
-    height: 100px;
-    padding-top: 20px;
+    background-color: rgba(0, 0, 0.728);
+    padding-top: 80px;
+    padding-bottom: 80px;
     color: rgb(198, 198, 198);
 }
 
